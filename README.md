@@ -1,1 +1,1 @@
-# PythonPlayground
+# python-mini-projects
