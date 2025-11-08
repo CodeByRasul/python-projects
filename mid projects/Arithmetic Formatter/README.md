@@ -1,10 +1,10 @@
 # Arithmetic Arranger
 
-## 📋 Project Overview
+## Project Overview
 
 This Python program formats arithmetic problems vertically, similar to how they appear in elementary school worksheets. It takes addition and subtraction problems and displays them in a neat, aligned format with optional answers.
 
-## 🎯 Purpose
+## Purpose
 
 This project demonstrates:
 
@@ -14,7 +14,7 @@ This project demonstrates:
 - Creating user-friendly console applications
 - Building educational tools for math practice
 
-## 📊 Example Output
+## Example Output
 
 ### Input
 ```
@@ -31,7 +31,7 @@ This project demonstrates:
   730      3799      88
 ```
 
-## 🔧 How It Works
+## How It Works
 
 The program consists of two main functions:
 
@@ -73,7 +73,7 @@ The program consists of two main functions:
 - Validates that at least one problem was entered
 - Displays formatted results with answers
 
-## 💡 Key Python Concepts Used
+## Key Python Concepts Used
 
 ### String Methods
 - **`.split()`** - Parses expression into components
@@ -94,7 +94,7 @@ The program consists of two main functions:
 - Operator-based calculation (addition vs subtraction)
 - Optional answer display
 
-## 🧪 Valid Input Examples
+## Valid Input Examples
 
 ```
 Valid expressions:
@@ -105,7 +105,7 @@ Valid expressions:
 123 - 49
 ```
 
-## ❌ Error Cases
+## Error Cases
 
 The program handles these error conditions:
 
@@ -166,7 +166,7 @@ Expression 3: 45 + 43
   730      3799      88
 ```
 
-## 📐 Alignment Algorithm
+## Alignment Algorithm
 
 The program ensures proper alignment using:
 
@@ -183,7 +183,7 @@ The program ensures proper alignment using:
 3. **Spacing Between Problems**:
    - Each problem separated by 4 spaces (`"    "`)
 
-## 🎓 Learning Outcomes
+## Learning Outcomes
 
 By studying this program, you'll understand:
 
@@ -194,7 +194,7 @@ By studying this program, you'll understand:
 - **Mathematical operations** - String to integer conversion and calculation
 - **Code organization** - Separating logic (arranger) from UI (main)
 
-## 🔄 Program Flow
+## Program Flow
 
 ```
 1. Start program
