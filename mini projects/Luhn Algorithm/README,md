@@ -1,4 +1,4 @@
-markdown# Credit Card Validator using Luhn Algorithm
+Credit Card Validator using Luhn Algorithm
 
 A Python implementation of the Luhn Algorithm to validate credit card numbers for error-checking purposes.
 
