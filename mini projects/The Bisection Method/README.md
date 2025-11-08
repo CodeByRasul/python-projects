@@ -1,10 +1,10 @@
 # Bisection Method for Finding Square Roots
 
-## 📋 Project Overview
+## Project Overview
 
 This project implements the **bisection method** - a numerical algorithm for approximating square roots of numbers. The bisection method is a root-finding technique that iteratively narrows down the range of possible values until it converges on the solution.
 
-## 🎯 Purpose
+## Purpose
 
 This project demonstrates how the bisection method can be used to:
 
@@ -12,7 +12,7 @@ This project demonstrates how the bisection method can be used to:
 - Understand iterative approximation techniques
 - Learn fundamental numerical analysis concepts
 
-## 🔍 How the Bisection Method Works
+## How the Bisection Method Works
 
 The bisection method finds the square root of a number `n` by:
 
