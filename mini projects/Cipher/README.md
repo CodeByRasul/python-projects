@@ -1,18 +1,6 @@
-# Vigenère Cipher
-
-A Python implementation of the classic Vigenère cipher for encrypting and decrypting text messages.
-
 ## About
 
 The Vigenère cipher is a method of encrypting alphabetic text using a simple form of polyalphabetic substitution. It uses a repeating keyword to shift letters in the alphabet, making it more secure than simple Caesar ciphers.
-
-## Features
-
-- ✅ Encrypt text messages using a custom key
-- ✅ Decrypt encrypted messages with the same key
-- ✅ Handles both uppercase and lowercase letters
-- ✅ Preserves non-alphabetic characters (spaces, punctuation, numbers)
-- ✅ Clean and readable code structure
 
 ## How It Works
 
@@ -69,27 +57,6 @@ Encrypts a message using the provided key.
 ### `decrypt(message, key)`
 Decrypts a message using the provided key.
 
-## Requirements
-
-- Python 3.x
-- No external libraries required
-
-## Installation
-
-1. Clone this repository:
-```bash
-git clone https://github.com/yourusername/vigenere-cipher.git
-```
-
-2. Navigate to the project directory:
-```bash
-cd vigenere-cipher
-```
-
-3. Run the script:
-```bash
-python vigenere_cipher.py
-```
 
 ## Example Output
 
@@ -99,15 +66,3 @@ Key: happycoding
 
 Decrypted text: vigenere is awesome
 ```
-
-## Security Note
-
-While the Vigenère cipher was considered unbreakable for centuries (earning it the nickname "le chiffre indéchiffrable"), it can be broken using modern cryptanalysis techniques. This implementation is for educational purposes and should not be used for securing sensitive information.
-
-## Contributing
-
-Feel free to fork this project and submit pull requests for any improvements!
-
----
-
-⭐ **Star this repository if you found it helpful!** ⭐
